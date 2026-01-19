@@ -18,3 +18,10 @@
 // var titlechar = firstchar.toUpperCase() + remainchar.toLowerCase()
 // console.log(titlechar);
 
+// QUESTION 1
+// var fname = prompt("enter your first name")
+// var lname = prompt("enter your last name")
+// var fullname = fname.concat(" " , lname)
+// alert("hello " + fullname + "!")
+
+// QUESTION 2
